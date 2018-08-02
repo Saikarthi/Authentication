@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="resetpass">Forgot Your Password?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="sign_out">Sign out</string>
+    <string name="email1">Email</string>
+    <string name="password1">Password</string>
+    <string name="loginbut">Login</string>
+    <string name="resetpass1">Forgot Your Password?</string>
+    <string name="signup">Don\'t hava an account? Sign Up</string>
+    <string name="textview">Forgot Password?</string>
+    <string name="textview2">Don\'t worry. Enter your registered Email Id to reset password</string>
+    <string name="emailr">Email</string>
+    <string name="resetbt">Reset Password</string>
+    <string name="back"><![CDATA[<<back]]></string>
+</resources>

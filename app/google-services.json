@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790573829493",
+    "firebase_url": "https://authentication-a25d4.firebaseio.com",
+    "project_id": "authentication-a25d4",
+    "storage_bucket": "authentication-a25d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790573829493:android:a0ce723b2e2463f7",
+        "android_client_info": {
+          "package_name": "com.example.karthi.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790573829493-170q2u7l6toau8vtkqsekrbou8eadh0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karthi.authentication",
+            "certificate_hash": "ccd9cb995700b41a8e1af9ea65ada4731e5b0b89"
+          }
+        },
+        {
+          "client_id": "790573829493-qd2ulgeki4pjkclo5ju1q30jh059slno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRqGeL6yTYXa42OPt2FjQG3edAKIWZn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790573829493-qd2ulgeki4pjkclo5ju1q30jh059slno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
